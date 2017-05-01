@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49 "[Cym 1] Crash"
+54 "[Cym 1] Mute"
+57 "[Cym 2] Crash"
+106 "[Cym 2] Mute"
+58 "[Cym 2] Mute"
+31 "[Cym 3] Crash"
+118 "[Cym 3] Mute"
+
+53 "[Ride] Bell"
+59 "[Ride] Edge"
+87 "[Ride] Shank"
+51 "[Ride] Tip"
+
+119 "[HH] Bell Closed"
+56 "[HH] Bell Closed"
+120 "[HH] Bell Open1"
+121 "[HH] Bell Open2"
+23 "[HH] Open Pedal"
+24 "[HH] Open 1"
+46 "[HH] Open 2"
+25 "[HH] Open 2"
+26 "[HH] Open 3"
+17 "[HH] Open 4"
+60 "[HH] Open 5"
+12 "[HH] Open Tip 1"
+13 "[HH] Open Tip 2"
+14 "[HH] Open Tip 3"
+15 "[HH] Open Tip 4"
+16 "[HH] Open Tip 5"
+10 "[HH] Closed Pedal"
+62 "[HH] Tight Edge"
+63 "[HH] Tight Tip"
+122 "[HH] Closed Edge"
+11 "[HH] Closed Tip"
+
+2 "[R.Tom 1] Center"
+81 "[R.Tom 1] Rim Only"
+82 "[R.Tom 1] Rimshot"
+
+43 "[F.Tom 1] Center"
+77 "[F.Tom 1] Rim Only"
+78 "[F.Tom 1] Rimshot"
+
+5 "[F.Tom 2] Center"
+72 "[F.Tom 2] Rim Only"
+73 "[F.Tom 2] Rimshot"

@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95 "[Perc 2] Hit"
+83 "[Perc] Hit"
+
+69 "[Cymbal 3] Bell"
+59 "[Cymbal 3] Bow"
+85 "[Cymbal 3] Choke"
+48 "[Cymbal 3] Edge"
+79 "[Cymbal 3] Hit"
+
+67 "[Cymbal 2] Bell"
+57 "[Cymbal 2] Bow"
+82 "[Cymbal 2] Choke"
+47 "[Cymbal 2] Edge"
+77 "[Cymbal 2] Hit"
+
+65 "[Cymbal 1] Bell"
+55 "[Cymbal 1] Bow"
+80 "[Cymbal 1] Choke"
+45 "[Cymbal 1] Edge"
+76 "[Cymbal 1] Hit"
+
+64 "[Crash 2] Bell"
+53 "[Crash 2] Bow"
+78 "[Crash 2] Choke"
+43 "[Crash 2] Edge"
+74 "[Crash 2] Hit"
+
+62 "[Crash 1] Bell"
+52 "[Crash 1] Bow"
+75 "[Crash 1] Choke"
+41 "[Crash 1] Edge"
+72 "[Crash 1] Hit"
+
+71 "[Ride 1] Bell"
+60 "[Ride 1] Bow"
+87 "[Ride 1] Choke"
+50 "[Ride 1] Edge"
+81 "[Ride 1] Hit"
+
+32 "[Hats] Pedal"
+56 "[Hats] Splash"
+39 "[Hats] Open Shank"
+34 "[Hats] Open Tip"
+44 "[Hats] 1/4 Shank"
+42 "[Hats] 1/4 Tip"
+49 "[Hats] Half Shank"
+46 "[Hats] Half Tip"
+54 "[Hats] 3/4 Shank"
+51 "[Hats] 3/4 Tip"
+58 "[Hats] Bell Tip"
+37 "[Hats] Closed Shank"
+30 "[Hats] Closed Tip"
+
+38 "[R.Tom 1] Hit"
+93 "[R.Tom 1] Rim Click"
+70 "[R.Tom 1] Rim Shot"
+
+40 "[R.Tom 2] Hit"
+94 "[R.Tom 2] Rim Click"
+73 "[R.Tom 2] Rim Shot"
+
+35 "[R.Tom 3] Hit"
+91 "[R.Tom 3] Rim Click"
+66 "[R.Tom 3] Rim Shot"
+
+36 "[R.Tom 4] Hit"
+92 "[R.Tom 4] Rim Click"
+68 "[R.Tom 4] Rim Shot"
+
+31 "[F.Tom 1] Hit"
+89 "[F.Tom 1] Rim Click"
+61 "[F.Tom 1] Rim Shot"
+
+33 "[F.Tom 2] Hit"
+90 "[F.Tom 2] Rim Click"
+63 "[F.Tom 2] Rim Shot"
+
+27 "[Snare] Drag"
+86 "[Snare] Flam"
+28 "[Snare] Half Edge"
+25 "[Snare] Side Stick"
+88 "[Snare] Rim Click"
+29 "[Snare] Rim Shot"
+26 "[Snare] Hit"
+
+24 "[Kick] Hit"
+84 "[Kick] No Snare"

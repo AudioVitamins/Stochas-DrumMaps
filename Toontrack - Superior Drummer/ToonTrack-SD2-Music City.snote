@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52 "[China] *Crash"
+27 "[China] *Ride"
+
+83 "[Crash/Splash] Mute"
+84 "[Crash/Splash] Ride"
+85 "[Crash/Splash] Bell"
+55 "[Crash/Splash] Crash"
+
+58 "[Crash B] Mute"
+97 "[Crash B] Bell"
+96 "[Crash B] Ride"
+31 "[Crash B] Crash"
+
+54 "[Crash A] Mute"
+90 "[Crash A] Bell"
+89 "[Crash A] Ride"
+29 "[Crash A] Crash"
+
+53 "[Ride] Bell"
+32 "[Ride] Edge"
+51 "[Ride] Ride"
+
+23 "[Hats] Open Pedal"
+121 "[Hats] Open Bell 2"
+120 "[Hats] Open Bell 1"
+16 "[Hats] Open 4"
+14 "[Hats] Open 3"
+13 "[Hats] Open 2"
+12 "[Hats] Open 1"
+64 "[Hats] Seq Hard"
+65 "[Hats] Seq Soft"
+62 "[Hats] Tight Edge"
+63 "[Hats] Tight Tip"
+10 "[Hats] Closed Pedal"
+119 "[Hats] Closed Bell"
+22 "[Hats] Closed Edge"
+11 "[Hats] Closed Tip"
+
+1 "[R.tom 1] Center"
+82 "[R.tom 1] Rimshot"
+
+2 "[R.tom 2] Center"
+80 "[R.tom 2] Rimshot"
+
+4 "[F.tom] Center"
+75 "[F.tom] Rimshot"
+
+76 "[CountIns] *Count"
+
+127 "[Snare] *Full Circle"
+126 "[Snare] *Half Circle"
+125 "[Snare] *Short Drag"
+67 "[Snare] *Palm"
+71 "[Snare] *Ring Finger"
+70 "[Snare] *Middle Finger"
+69 "[Snare] *Index Finger"
+66 "[Snare] *Thumb"
+39 "[Snare] Ruffs"
+37 "[Snare] Sidestick"
+33 "[Snare] Edge"
+40 "[Snare] Rimshot"
+38 "[Snare] Center"
+
+34 "[Kick] Right"

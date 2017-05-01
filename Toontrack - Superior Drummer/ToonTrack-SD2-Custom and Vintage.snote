@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27 "[Cymbal 1] Crash"
+83 "[Cymbal 1] Mute"
+28 "[Cymbal 2] Crash"
+54 "[Cymbal 2] Mute"
+30 "[Cymbal 3] Crash"
+106 "[Cymbal 3] Mute"
+31 "[Cymbal 4] Crash"
+58 "[Cymbal 4] Mute"
+
+87 "[Ride 3] Crescendo"
+86 "[Ride 3] Punch"
+85 "[Ride 3] Bell"
+84 "[Ride 3] Ride"
+
+111 "[Ride 2] Crescendo"
+109 "[Ride 2] Bell"
+108 "[Ride 2] Ride"
+
+104 "[Ride 1] Crescendo"
+59 "[Ride 1] Punch"
+53 "[Ride 1] Bell"
+51 "[Ride 1] Ride"
+
+23 "[Hats] Open Pedal"
+119 "[Hats] Open Bell"
+60 "[Hats] Open 4"
+16 "[Hats] Open 3"
+14 "[Hats] Open 2"
+12 "[Hats] Open 1"
+10 "[Hats] Closed Pedal"
+62 "[Hats] Tight"
+63 "[Hats] Tight Tip"
+42 "[Hats] Closed Tip"
+11 "[Hats] Closed"
+
+1 "[R.tom 1] Center"
+82 "[R.tom 1] Rimshot"
+
+2 "[R.tom 2] Center"
+80 "[R.tom 2] Rimshot"
+
+3 "[R.tom 3] Center"
+78 "[R.tom 3] Rimshot"
+
+4 "[F.tom 1] Center"
+73 "[F.tom 1] Rimshot"
+
+41 "[F.tom 2] Center"
+
+76 "[Sticks] Count In"
+
+67 "[Snare] Brushed"
+69 "[Snare] Flams"
+39 "[Snare] Ruffs"
+37 "[Snare] Sidestick"
+40 "[Snare] Rimshot"
+66 "[Snare] Muted"
+6 "[Snare] Center"
+
+34 "[Kick] Right"
+35 "[Kick] Open"
